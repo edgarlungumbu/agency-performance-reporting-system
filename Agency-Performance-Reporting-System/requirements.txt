@@ -1,6 +1,0 @@
-Requirements:
-
-- pandas
-- numpy
-- openpyxl
-- dateparser
