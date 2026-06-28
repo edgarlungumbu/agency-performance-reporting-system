@@ -38,14 +38,16 @@ A highly frequent issue that businesses encounter is with collected data being i
 	python Agency_Tracker.py
 4. The generated Excel report will be saved automatically.
 
-Output:
+## Output
 The generated Excel workbook contains:
-•	Executive Summary
-•	Agent Data
-•	Office Summary
-•	Manager Summary
-•	Specialisation Summary
-•	Flagged Data
+
+- Executive Summary
+- Agent Data
+- Office Summary
+- Manager Summary
+- Specialisation Summary
+- Flagged Data
+  
 The report includes cleaned data, calculated KPIs, conditional formatting, and management summaries ready for business use.
 
 ## Screenshots
