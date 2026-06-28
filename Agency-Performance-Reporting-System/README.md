@@ -1,6 +1,6 @@
 # Agency Performance Reporting System
 
-![img_1.png](img_1.png)
+![Executive Summary](Screenshots/Executive_Summary.png)
 
 ## Overview
 
@@ -52,16 +52,16 @@ The report includes cleaned data, calculated KPIs, conditional formatting, and m
 
 ### Executive Summary
 
-![img_4.png](img_4.png)
+![Executive Summary](Screenshots/Executive_Summary.png)
 
 ### Agent Data - Raw to Clean Transformation & Calculations
 
-![img_2.png](img_2.png)
+![Agent_Data1](Screenshots/Agent_Data1.png)
 
-![img_3.png](img_3.png)
+![Agent_Data2](Screenshots/Agent_Data2.png)
 
 ### Agent Data - Flagged Data
 
-![img_5.png](img_5.png)
+![Flagged_Data1](Screenshots/Flagged_Data1.png)
 
-![img_6.png](img_6.png)
+![Flagged_Data2](Screenshots/Flagged_Data2.png)
